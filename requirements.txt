@@ -1,0 +1,5 @@
+opencv-python-headless==4.5.5.64
+tensorflow==2.15.0
+scikit-image==0.19.3
+imutils==0.5.4
+numpy==1.26.0
