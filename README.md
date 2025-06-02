@@ -36,7 +36,7 @@ sudoku/
 
 <p align="center">
   <img src="images/sudoku.png" alt="Исходное судоку" width="45%">
-  <img src="images/sudoku_solver.png" alt="Решенное судоку" width="45%">
+  <img src="images/solved_sudoku.png" alt="Решенное судоку" width="45%">
   <br>
 </p>
 
